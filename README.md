@@ -4,12 +4,6 @@
 
 </div>
 
-<div align="center">
-
-3rd year CS student at VIT. I write code and poetry. Both are just pattern recognition with feelings.
-
-</div>
-
 ---
 
 ### Projects
