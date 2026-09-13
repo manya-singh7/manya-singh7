@@ -14,7 +14,7 @@ You built more than you remember. Behind every green square, a story worth telli
 
 Gemini writes a narrative of your coding year in your voice. Your collaborators plotted on a world map. Your work, finally seen.
 
-**[Amara](https://amara-care.onrender.com)** — https://amara-care.onrender.com
+**[Amara](https://amara-care.onrender.com)** — amara-care.onrender.com
 
 AI caregiving coordination platform. Won 2nd place at WINS-AID AI Hackathon 2026, British Council x VIT Vellore. Built in 24 hours.
 
